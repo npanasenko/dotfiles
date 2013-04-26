@@ -76,3 +76,6 @@
 
 [push]
 	default = simple
+[user]
+	name = Nikolai Panasenko
+	email = nikolai.panasenko@acid21.com
